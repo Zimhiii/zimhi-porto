@@ -391,7 +391,7 @@ Responsive
 
 .content-left-dua {
   width: 100%;
-  min-height: 360px;
+  /* min-height: 360px; */
   margin-top: 20px;
   min-width: 300px;
   background-color: #ffffff;
