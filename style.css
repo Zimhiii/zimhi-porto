@@ -269,6 +269,9 @@ Responsive
     align-items: center;
     align-content: center;
   }
+  .image img {
+    border-radius: 60%;
+  }
   .main.image {
     flex-grow: 1;
   }
